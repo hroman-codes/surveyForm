@@ -1,0 +1,83 @@
+body{
+    background-color: #AAD7D1;
+    font-family: 'Raleway', Helvetica, sans-serif;
+  }
+  
+  .container {
+    background-color: white;
+    border-radius: 5px;
+    margin: 0 auto;
+    padding: 10px;
+    width: 75%;
+  }
+  
+  .checkBoxText {
+    margin-right: 5px;
+    margin-bottom: 8px;
+  }
+  
+  #description {
+    font-family: 'Raleway', Helvetica, sans-serif;
+  }
+  
+  .dropDown {
+    height: 35px;
+    width: 140px;
+    margin: 10px;
+  }
+  
+  .inputField{
+    height: 20px;
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid #c0c0c0;
+    border-radius: 2px;
+    width: 200px;
+  }
+  
+  .labels {
+    display: inline-block;
+    text-align: right;
+    width: 40%;
+    padding: 5px;
+    vertical-align: top;
+  }
+  
+  .rightTab {
+    display: inline-block;
+    text-align: left;
+    width: 48%;
+    vertical-align: middle;
+  }
+  
+  .radio {
+    position: relative;
+    left: -43px;
+    margin-left: 10px; */
+    display: block;
+    padding-bottom: 10px;
+  }
+  
+  .radioText {
+    margin-right: 5px;
+  }
+  
+  #surveyContainer {
+    text-align: center;
+  }
+  
+  #submit {
+    background-color: #59ace0;
+    border-radius: 4px;
+    color: white;
+    font-size: 1em;
+    height: 40px;
+    width: 96px;
+    margin: 10px;
+    border: 0px solid;
+  }
+  
+  #title {
+    font-weight: bold;
+  }
+  
